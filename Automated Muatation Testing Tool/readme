@@ -1,0 +1,14 @@
+Platform: Windows
+Python version: 3.5.2
+
+How to run?
+-> run MutationTesting.py under script folder.
+-> Select the maven project on which mutation test has to be done.
+-> Final mutation score will be displayed on the terminal
+
+Approx run time: 45min (1200 lines fo code)
+
+Test Projects
+-> https://github.com/davidmoten/geo
+-> https://github.com/yandex-qatools/ashot
+-> https://github.com/jexp/batch-import
